@@ -8,6 +8,6 @@
       <body>
               <h1>Travel to Costa Rica</h1>
               <p>...and you'll get to see these beauties!</p>
-              <imh src="https://www.kasandbox.org/Programming-images/animals/crocodiles.png alt="Scary crocodiles"cwidth="200"/>
+              <imh src="https://www.kasandbox.org/programming-images/animals/crocodiles.png" alt="Scary crocodiles" width="200"/>
       </body>
 </html>
